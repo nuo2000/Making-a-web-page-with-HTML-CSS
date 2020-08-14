@@ -1,2 +1,2 @@
-# Making-a-web-page-with-HTML-CSS
-squared up Making a web page with HTML + CSS
+# Template-HTML-CSS
+squared up Template HTML + CSS
